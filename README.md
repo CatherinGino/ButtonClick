@@ -2,6 +2,8 @@
 A fun and colorful interactive project where **every click tells a story**.  
 Click any of the 16 vibrant buttons and reveal a little piece of personality, thoughts, or relatable truths.  
 
+Check it out: https://catheringino.github.io/ButtonClick/
+
 ---
 
 ## ✨ Features
@@ -32,7 +34,7 @@ Click any of the 16 vibrant buttons and reveal a little piece of personality, th
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ButtonClick.git
+git clone https://github.com/CatherinGino/ButtonClick.git
 ```
 
 ### 2. Open in your browser
